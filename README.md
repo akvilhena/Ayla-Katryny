@@ -18,11 +18,35 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
  
-<div align="center">
-  <a href="https://github.com/AyltonAguiar">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AyltonAguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  width="400"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyltonAguiar&layout=compact&langs_count=7&theme=dracula"  width="400"/>
-</div>
+### 📊 Github Stats
+
+<details>
+<summary>Expand</summary>
+
+<table><tr><td valign="top" width="50%">
+
+<br>
+
+<img src="./assets/metrics.plugin.overview.svg">
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
+
+</td></tr></table>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.activity.svg">
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.stargazers.svg" >
+
+</td></tr></table>
+
+</details>
+
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
