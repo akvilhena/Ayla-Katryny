@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: user/metrics@master
+      - uses: lowlighter/metrics@master
         with:
           # Current configuration doesn't require a GitHub token
           filename: assets/metrics.plugin.overview.svg
