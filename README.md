@@ -16,12 +16,12 @@
   <a href="https://www.linkedin.com/in/aylton-aguiar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
- 
-### 📊 Github Stats
+###
+
+### 📊 Github Estatístico
 
 <details>
-<summary>Expand</summary>
+<summary>Expandir</summary>
 
 <table><tr><td valign="top" width="50%">
 
@@ -47,8 +47,19 @@
 
 </details>
 
+---
 
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+### 📊 Linguagens Usadas
+
+<details>
+<summary>Expandir</summary>
+
+<img src="./assets/metrics.plugin.languages.details.svg">
+
+</details>
+
+---
+
 
 <h3 align="left">Meu conjunto de habilidades:</h3>
 <p align="left">
