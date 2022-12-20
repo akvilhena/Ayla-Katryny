@@ -20,8 +20,8 @@
  
 <div align="center">
   <a href="https://github.com/AyltonAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyltonAguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyltonAguiar&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AyltonAguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  width="400"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyltonAguiar&layout=compact&langs_count=7&theme=dracula"  width="400"/>
 </div>
 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
