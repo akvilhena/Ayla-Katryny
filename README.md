@@ -53,18 +53,18 @@
 
 <details>
 <summary>Expandir</summary>
-
 <img src="./assets/metrics.plugin.languages.details.svg">
-
 </details>
 
 ---
 
 
+
+<table><tr><td valign="top" width="50%">
 <h3 align="left">Meu conjunto de habilidades:</h3>
 <p align="left">
 <div> 
-<a href="https://www.getdbt.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"</a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"</a>
 <a href="https://console.cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"</a>
 </div>
 
@@ -76,9 +76,15 @@
 
 <div>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"</a>
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"</a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"</a>
 </div>
-
+  
+</td><td valign="top" width="50%">
+<h3 align="left">Conquistas:</h3>
+<p align="left">
+<img src="./assets/metrics.plugin.achievements.compact.svg">
+</td></tr></table>
+ 
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
   ![Snake animation](https://github.com/AyltonAguiar/AyltonAguiar/blob/output/github-contribution-grid-snake.svg)
