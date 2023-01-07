@@ -87,5 +87,5 @@
  
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-  ![Snake animation](https://github.com/AyltonAguiar/AyltonAguiar/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AyltonAguiar/AyltonAguiar/blob/output/github-contribution-grid-snake-dark.svg)
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
