@@ -22,28 +22,29 @@
 
 <details>
 <summary>Expandir</summary>
-
-<table><tr><td valign="top" width="50%">
-
-<br>
-
-<img src="./assets/metrics.plugin.overview.svg">
-
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
-
-</td></tr></table>
-
-<table><tr><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.activity.svg">
-
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.stargazers.svg" >
-
-</td></tr></table>
+  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <br>
+      <img src="./assets/metrics.plugin.overview.svg">
+    </td>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
+    </td>
+  </tr>
+  </table>
+  
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="./assets/metrics.plugin.activity.svg">
+      </td>
+      <td valign="top" width="50%">
+        <img src="./assets/metrics.plugin.stargazers.svg" >
+      </td>
+    </tr>
+  </table>
 
 </details>
 
@@ -52,40 +53,44 @@
 ### 📊 Linguagens Usadas
 
 <details>
-<summary>Expandir</summary>
-<img src="./assets/metrics.plugin.languages.details.svg">
+  <summary>Expandir</summary>
+  <img src="./assets/metrics.plugin.languages.details.svg">
 </details>
 
 ---
 
+<table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="left">Tech Stack:</h3>
+        <p align="left">
+  <div> 
+    <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"</a>
+    <a href="https://console.cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"</a>
+  </div>
 
+  <div>
+    <a href="https://www.mongodb.com" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"</a>
+    <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"</a>
+    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"</a>
+  </div>
 
-<table><tr><td valign="top" width="50%">
-<h3 align="left">Meu conjunto de habilidades:</h3>
-<p align="left">
-<div> 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"</a>
-<a href="https://console.cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"</a>
-</div>
+  <div>
+    <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"</a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"</a>
+  </div>
 
-<div>
-<a href="https://www.mongodb.com" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"</a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"</a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"</a>
-</div>
-
-<div>
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"</a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"</a>
-</div>
-  
-</td><td valign="top" width="50%">
-<h3 align="left">Conquistas:</h3>
-<p align="left">
-<img src="./assets/metrics.plugin.achievements.compact.svg">
-</td></tr></table>
+  </td>
+    <td valign="top" width="50%">
+      <h3 align="left">Conquistas:</h3>
+      <p align="left">
+        <img src="./assets/metrics.plugin.achievements.compact.svg">
+    </td>
+    </tr>
+</table>
  
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-
-  ![Snake animation](https://github.com/AyltonAguiar/AyltonAguiar/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- Line Animation -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<!-- Snake Animation -->
+![Snake animation](https://github.com/AyltonAguiar/AyltonAguiar/blob/output/github-contribution-grid-snake-dark.svg)
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
