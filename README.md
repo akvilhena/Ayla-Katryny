@@ -1,13 +1,22 @@
-
+<!-- Line Animation -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-![Visitor Count](https://profile-counter.glitch.me/AyltonAguiar/count.svg)
+<!-- End Line Animation -->
 
+<!-- Count visiter -->
+![Visitor Count](https://profile-counter.glitch.me/AyltonAguiar/count.svg)
+<!-- End Count visiter -->
+
+<!-- Intro -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Seja+Bem+Vindo🎲;🎲+Sou+Aylton+Aguiar"alt="Currently Learning Solidity">
 </p>
+<!-- End Intro -->
 
+<!-- Line Animation -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<!-- End Line Animation -->
 
+<!-- Contatos -->
 <h3 align="left"> Contato:</h3>
 <div> 
   <a href="https://instagram.com/aguiar_aylton" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -15,9 +24,21 @@
   <a href = "mailto:ayltonaguiar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aylton-aguiar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<!-- End Contatos -->
 
-###
+<!-- List Projects -->
+###  📚 Lista de Projetos
 
+<details>
+  <summary> Expandir </summary>
+
+  <a href="https://github.com/AyltonAguiar/northwind"><img width="278" src="https://github-readme-stats-ayltonaguiar.vercel.app/api/pin/?username=AyltonAguiar&repo=northwind&theme=tokyonight&bg_color=1F222E&title_color=0255FFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="northwind">
+  <a href="https://github.com/AyltonAguiar/northwind-mkdocs"><img width="278" src="https://github-readme-stats-ayltonaguiar.vercel.app/api/pin/?username=AyltonAguiar&repo=northwind-mkdocs&theme=tokyonight&bg_color=1F222E&title_color=0255FFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="northwind-mkdocs"></a>
+
+</details>
+<!-- List Projects -->
+  
+<!-- End github statistic-->
 ### 📊 Github Estatístico
 
 <details>
@@ -47,17 +68,15 @@
   </table>
 
 </details>
+<!-- End github statistic-->
 
----
-
+<!-- Language Graphics -->
 ### 📊 Linguagens Usadas
 
 <details>
   <summary>Expandir</summary>
   <img src="./assets/metrics.plugin.languages.details.svg">
 </details>
-
----
 
 <table>
     <tr>
@@ -80,6 +99,10 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"</a>
   </div>
 
+  <div>
+    <a href="https://www.getdbt.com" target="_blank"> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"</a>
+  </div>
+      
   </td>
     <td valign="top" width="50%">
       <h3 align="left">Conquistas:</h3>
@@ -88,9 +111,13 @@
     </td>
     </tr>
 </table>
- 
+<!-- End Language Graphics -->
+      
 <!-- Line Animation -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<!-- End Line Animation -->
+    
 <!-- Snake Animation -->
 ![Snake animation](https://github.com/AyltonAguiar/AyltonAguiar/blob/output/github-contribution-grid-snake-dark.svg)
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<!-- End Snake Animation -->
