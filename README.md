@@ -3,7 +3,7 @@
 <!-- End Line Animation -->
 
 <!-- Count visiter -->
-![Visitor Count](https://profile-counter.glitch.me/AyltonAguiar/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Ayla-Katryny/count.svg)
 <!-- End Count visiter -->
 
 <!-- Intro -->
@@ -108,6 +108,6 @@
 <!-- End Line Animation -->
     
 <!-- Snake Animation -->
-![Snake animation](https://github.com/AyltonAguiar/AyltonAguiar/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Ayla-Katryny/Ayla-Katryny/blob/output/github-contribution-grid-snake-dark.svg)
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <!-- End Snake Animation -->
