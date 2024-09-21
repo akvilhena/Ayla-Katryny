@@ -8,7 +8,7 @@
 
 <!-- Intro -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Seja+Bem+Vindo🎲;🎲+Sou+Aylton+Aguiar"alt="Currently Learning Solidity">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Seja+Bem+Vindo;Sou+Ayla+Katryny"alt="Currently Learning Solidity">
 </p>
 <!-- End Intro -->
 
@@ -19,10 +19,10 @@
 <!-- Contatos -->
 <h3 align="left"> Contato:</h3>
 <div> 
-  <a href="https://instagram.com/aguiar_aylton" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/akvilhena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/AyltonAguiar#3345" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ayltonaguiar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aylton-aguiar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:aylakatryny@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ayla-katryny" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <!-- End Contatos -->
 
@@ -31,12 +31,6 @@
 
 <details>
   <summary> Expandir </summary>
-  <!-- Project Northwind -->
-  <a href="https://github.com/AyltonAguiar/northwind"><img width="278" src="https://github-readme-stats-ayltonaguiar.vercel.app/api/pin/?username=AyltonAguiar&repo=northwind&theme=tokyonight&bg_color=1F222E&title_color=0255FFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="northwind">
-   <!-- Project Mkdocs Norhwind -->
-  <a href="https://github.com/AyltonAguiar/northwind-mkdocs"><img width="278" src="https://github-readme-stats-ayltonaguiar.vercel.app/api/pin/?username=AyltonAguiar&repo=northwind-mkdocs&theme=tokyonight&bg_color=1F222E&title_color=0255FFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="northwind-mkdocs">
-   <!-- Project Winner GG-growth game -->
-  <a href="https://github.com/AyltonAguiar/GG-Growth_Game"><img width="278" src="https://github-readme-stats-ayltonaguiar.vercel.app/api/pin/?username=AyltonAguiar&repo=GG-Growth_Game&theme=tokyonight&bg_color=1F222E&title_color=0255FFFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="GG-Growth_Game">
 </details>
 <!-- List Projects -->
   
@@ -86,14 +80,9 @@
         <h3 align="left">Tech Stack:</h3>
         <p align="left">
   <div> 
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"</a>
-    <a href="https://console.cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"</a>
   </div>
 
   <div>
-    <a href="https://www.mongodb.com" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"</a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"</a>
-    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"</a>
   </div>
 
   <div>
@@ -102,7 +91,6 @@
   </div>
 
   <div>
-    <a href="https://www.getdbt.com" target="_blank"> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"</a>
   </div>
       
   </td>
